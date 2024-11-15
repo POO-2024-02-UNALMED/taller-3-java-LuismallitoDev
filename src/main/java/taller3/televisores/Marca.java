@@ -1,6 +1,6 @@
 package taller3.televisores;
 
-class Marca {
+public class Marca {
 	private String nombre;
 
 	public Marca(String nombre) {
